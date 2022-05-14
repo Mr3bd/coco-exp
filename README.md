@@ -21,9 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 - Files Guideline
     1. Assets => Local Resources
     2. lib/
-        a. API => Contains API's & Respositories.
-        b. Bloc => Contains all blocs we need to build the page.
-        c. Models => Contians All models needed for API's.
-        d. Pages => Contains All Views in this project there is only one page, explore page.
-        e. Utilities => Contains tools & functions.
-        f. Widgets => Contains all custom widgets.
+        1. API => Contains API's & Respositories.
+        2. Bloc => Contains all blocs we need to build the page.
+        3. Models => Contians All models needed for API's.
+        3. Pages => Contains All Views in this project there is only one page, explore page.
+        5. Utilities => Contains tools & functions.
+        6. Widgets => Contains all custom widgets.
